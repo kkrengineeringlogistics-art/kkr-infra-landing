@@ -8,17 +8,17 @@ const Index = () => {
     {
       name: "K. Rajesh Kumar",
       image: founderRajesh,
-      alt: "K. Rajesh Kumar - Co-Founder, KKR INFRA DEVLOPER"
+      alt: "K. Rajesh Kumar - Co-Founder, KKR INFRA DEVELOPER"
     },
     {
       name: "D. MURALI NAIDU",
       image: founderMurali,
-      alt: "D. MURALI NAIDU - Co-Founder, KKR INFRA DEVLOPER"
+      alt: "D. MURALI NAIDU - Co-Founder, KKR INFRA DEVELOPER"
     },
     {
       name: "I. kireeti",
       image: founderKireeti,
-      alt: "I. kireeti - Co-Founder, KKR INFRA DEVLOPER"
+      alt: "I. kireeti - Co-Founder, KKR INFRA DEVELOPER"
     }
   ];
 
@@ -31,8 +31,8 @@ const Index = () => {
             <div className="flex items-center justify-center gap-3 mb-4">
               <Building2 className="w-12 h-12 md:w-16 md:h-16 text-primary" />
             </div>
-            <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground tracking-tight">
-              KKR INFRA DEVLOPER
+            <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-foreground tracking-tight">
+              KKR INFRA DEVELOPER
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
               Building Tomorrow's Infrastructure Today
@@ -95,7 +95,7 @@ const Index = () => {
       <footer className="py-8 px-4 border-t border-border">
         <div className="container mx-auto max-w-6xl text-center">
           <p className="text-muted-foreground">
-            © 2025 KKR INFRA DEVLOPER. All rights reserved.
+            © 2025 KKR INFRA DEVELOPER. All rights reserved.
           </p>
         </div>
       </footer>
