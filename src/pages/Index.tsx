@@ -16,9 +16,9 @@ const Index = () => {
       alt: "D. MURALI NAIDU - Founder, KKR INFRA DEVELOPER"
     },
     {
-      name: "I. kireeti",
+      name: "E. Kireeti",
       image: founderKireeti,
-      alt: "I. kireeti - Founder, KKR INFRA DEVELOPER"
+      alt: "E. Kireeti - Founder, KKR INFRA DEVELOPER"
     }
   ];
 
