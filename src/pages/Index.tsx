@@ -8,17 +8,17 @@ const Index = () => {
     {
       name: "K. Rajesh Kumar",
       image: founderRajesh,
-      alt: "K. Rajesh Kumar - Co-Founder, KKR INFRA DEVELOPER"
+      alt: "K. Rajesh Kumar - Founder, KKR INFRA DEVELOPER"
     },
     {
       name: "D. MURALI NAIDU",
       image: founderMurali,
-      alt: "D. MURALI NAIDU - Co-Founder, KKR INFRA DEVELOPER"
+      alt: "D. MURALI NAIDU - Founder, KKR INFRA DEVELOPER"
     },
     {
       name: "I. kireeti",
       image: founderKireeti,
-      alt: "I. kireeti - Co-Founder, KKR INFRA DEVELOPER"
+      alt: "I. kireeti - Founder, KKR INFRA DEVELOPER"
     }
   ];
 
@@ -84,7 +84,7 @@ const Index = () => {
                 <h3 className="text-xl md:text-2xl font-bold text-foreground">
                   {founder.name}
                 </h3>
-                <p className="text-muted-foreground mt-2">Co-Founder</p>
+                <p className="text-muted-foreground mt-2">Founder</p>
               </div>
             ))}
           </div>
