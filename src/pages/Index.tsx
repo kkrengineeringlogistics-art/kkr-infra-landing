@@ -61,7 +61,7 @@ const Index = () => {
         <div className="container mx-auto max-w-6xl">
           <div className="text-center mb-12 animate-in fade-in slide-in-from-bottom-4 duration-1000 delay-200">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-              Our Founders
+              Our Team
             </h2>
             <p className="text-muted-foreground text-lg">
               Led by visionaries committed to excellence in construction
