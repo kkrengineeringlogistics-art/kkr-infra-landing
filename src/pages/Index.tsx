@@ -1,7 +1,7 @@
-import { Building2 } from "lucide-react";
 import founderRajesh from "@/assets/founder-rajesh.jpg";
 import founderMurali from "@/assets/founder-murali.jpg";
 import founderKireeti from "@/assets/founder-kireeti.jpg";
+import companyLogo from "@/assets/company-logo.png";
 
 const Index = () => {
   const founders = [
@@ -28,8 +28,12 @@ const Index = () => {
       <section className="py-16 md:py-24 px-4">
         <div className="container mx-auto max-w-6xl">
           <div className="text-center space-y-6 animate-in fade-in slide-in-from-bottom-4 duration-1000">
-            <div className="flex items-center justify-center gap-3 mb-4">
-              <Building2 className="w-12 h-12 md:w-16 md:h-16 text-primary" />
+            <div className="flex items-center justify-center mb-6">
+              <img 
+                src={companyLogo} 
+                alt="KKR INFRA DEVELOPER Logo" 
+                className="w-32 h-32 md:w-40 md:h-40 object-contain"
+              />
             </div>
             <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-foreground tracking-tight">
               KKR INFRA DEVELOPER
