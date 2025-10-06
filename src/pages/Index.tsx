@@ -32,7 +32,7 @@ const Index = () => {
               <img 
                 src={companyLogo} 
                 alt="KKR INFRA DEVELOPER Logo" 
-                className="w-32 h-32 md:w-40 md:h-40 object-contain"
+                className="w-56 h-56 md:w-72 md:h-72 object-contain"
               />
             </div>
             <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-foreground tracking-tight">
