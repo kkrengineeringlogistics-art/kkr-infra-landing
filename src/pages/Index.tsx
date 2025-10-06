@@ -41,6 +41,17 @@ const Index = () => {
         </div>
       </section>
 
+      {/* Coming Soon Section */}
+      <section className="py-12 px-4">
+        <div className="container mx-auto max-w-6xl">
+          <div className="text-center">
+            <h2 className="text-5xl md:text-7xl font-bold text-primary animate-blink">
+              COMING SOON
+            </h2>
+          </div>
+        </div>
+      </section>
+
       {/* Founders Section */}
       <section className="py-16 md:py-24 px-4 bg-muted/30">
         <div className="container mx-auto max-w-6xl">
